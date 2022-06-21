@@ -64,7 +64,7 @@ spring:
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/flyway-test?useSSL=false
     username: root
-    password: root
+    password: 123456
     type: com.zaxxer.hikari.HikariDataSource
 ```
 
